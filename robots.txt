@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
 Allow: /index.html 
-Sitemap: http://userpage.fu-berlin.de/qari/sitemap.txt
+Sitemap: https://qurtosis.github.io/sitemap.txt
