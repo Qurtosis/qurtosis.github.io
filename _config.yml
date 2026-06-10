@@ -1,0 +1,4 @@
+# _config.yml
+title: Minimal site
+markdown: kramdown
+plugins: []
