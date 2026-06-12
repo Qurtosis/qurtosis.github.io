@@ -1,5 +1,7 @@
 User-agent: *
 Disallow: /*
+Allow: /sitemap.xml
+Allow: /sitemap.txt
 Allow: /index.html
 Allow: /research.html 
-Sitemap: https://qurtosis.github.io/sitemap.txt
+Sitemap: https://qurtosis.github.io/sitemap.xml
